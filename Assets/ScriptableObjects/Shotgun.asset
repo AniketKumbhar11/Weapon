@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85654d460d330541b063eec476aee99, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  WeaponType: 2
+  WeaponName: Shotgun
+  WeaponPrefab: {fileID: 8990929851460550989, guid: 2cf2f2dfa97dbc144ae0c0e03d39a57b, type: 3}
+  WireWeaponImage: {fileID: 21300000, guid: 019d0ceb3bce9104a807227e1e0de391, type: 3}
+  SpriteIcon: {fileID: 21300000, guid: 11603ace0614fba49897d75d4f191b94, type: 3}
+  Weigth: 2
+  Accuracy: 3
+  Range: 3
+  FireRate: 5
+  Damage: 4

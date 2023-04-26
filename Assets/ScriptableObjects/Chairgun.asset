@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85654d460d330541b063eec476aee99, type: 3}
+  m_Name: Chairgun
+  m_EditorClassIdentifier: 
+  WeaponType: 0
+  WeaponName: Chairgun
+  WeaponPrefab: {fileID: 2796543654476294117, guid: af5abb430ee67264598aae587e537b18, type: 3}
+  WireWeaponImage: {fileID: 21300000, guid: 819070dd9579e3e46a8ae3de604bd457, type: 3}
+  SpriteIcon: {fileID: 21300000, guid: 4f8518ce44b8fa946985313cc7347c6b, type: 3}
+  Weigth: 6
+  Accuracy: 3
+  Range: 6
+  FireRate: 5
+  Damage: 8

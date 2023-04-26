@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85654d460d330541b063eec476aee99, type: 3}
+  m_Name: FBW8
+  m_EditorClassIdentifier: 
+  WeaponType: 8
+  WeaponName: FBW8
+  WeaponPrefab: {fileID: 6444484693122645321, guid: c8f3300a13d43ba4c98bf5c280b71d95, type: 3}
+  WireWeaponImage: {fileID: 21300000, guid: bdaf5c5d2c03e814d8d28ef23a04dd1b, type: 3}
+  SpriteIcon: {fileID: 21300000, guid: 57d9b957b7e847449ad39b776114c179, type: 3}
+  Weigth: 2
+  Accuracy: 5
+  Range: 4
+  FireRate: 5
+  Damage: 8

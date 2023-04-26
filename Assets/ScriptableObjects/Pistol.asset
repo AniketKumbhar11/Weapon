@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85654d460d330541b063eec476aee99, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  WeaponType: 1
+  WeaponName: Pistol
+  WeaponPrefab: {fileID: 56067132378243046, guid: 7bb50d9777574f84092eb61e3671cc7f, type: 3}
+  WireWeaponImage: {fileID: 21300000, guid: c8eff6858275a7449afc96e04b2269da, type: 3}
+  SpriteIcon: {fileID: 21300000, guid: 3059beeb1ca1c584aa3c8b88f3e27e9a, type: 3}
+  Weigth: 2
+  Accuracy: 2
+  Range: 1
+  FireRate: 2
+  Damage: 2

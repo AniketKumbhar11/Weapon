@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85654d460d330541b063eec476aee99, type: 3}
+  m_Name: FragGrenade
+  m_EditorClassIdentifier: 
+  WeaponType: 6
+  WeaponName: FragGrenade
+  WeaponPrefab: {fileID: 7909010311074168258, guid: 9c06f009fe86a6347a63a1d5443e7ebe, type: 3}
+  WireWeaponImage: {fileID: 21300000, guid: 3bb0af9cf880405499111592107fd530, type: 3}
+  SpriteIcon: {fileID: 21300000, guid: e2a3aec2908233f44834eaccaa05d3f2, type: 3}
+  Weigth: 2
+  Accuracy: 3
+  Range: 6
+  FireRate: 4
+  Damage: 3
